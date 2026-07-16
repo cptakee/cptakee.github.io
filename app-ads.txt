@@ -1,1 +1,2 @@
+OWNERDOMAIN=cptakee.github.io
 google.com, pub-1197813168536206, DIRECT, f08c47fec0942fa0
